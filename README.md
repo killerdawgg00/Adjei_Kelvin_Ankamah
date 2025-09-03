@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**GitHub Repository**: [https://github.com/killerdawgg00/project_ak](https://github.com/killerdawgg00/project_ak)
+**GitHub Repository**: [https://github.com/killerdawgg00/Adjei_Kelvin_Ankamah.git](https://github.com/killerdawgg00/Adjei_Kelvin_Ankamah.git)
 
 ## About
 
