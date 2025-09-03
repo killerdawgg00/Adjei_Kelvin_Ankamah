@@ -2,7 +2,7 @@
 
 ## Project Info
 
-**GitHub Repository**: [https://github.com/killerdawgg00/Adjei_Kelvin_Ankamah.git](https://github.com/killerdawgg00/Adjei_Kelvin_Ankamah.git)
+**GitHub Repository**: [https://github.com/killerdawgg00/project_ak](https://github.com/killerdawgg00/project_ak)
 
 ## About
 
@@ -56,6 +56,6 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open https://github.com/killerdawgg00/Adjei_Kelvin_Ankamah.git and click on Share -> Publish.
+Simply open https://github.com/killerdawgg00/project_ak.git and click on Share -> Publish.
 
 >>>>>>> a822a21 (Initial commit: Portfolio website setup)
