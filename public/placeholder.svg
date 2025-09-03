@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <text x="100" y="120" 
+        font-family="serif" 
+        font-size="80" 
+        font-style="italic" 
+        font-weight="bold"
+        text-anchor="middle" 
+        fill="#000000">AK</text>
+</svg>
